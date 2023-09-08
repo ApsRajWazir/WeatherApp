@@ -1,5 +1,5 @@
 
-# CRUD project via Expressjs
+# Weather Reporting App
 
 This is a simple Weather Reporting App,
 Used for reporting Weather as per the given city/state/country name using a mock API
